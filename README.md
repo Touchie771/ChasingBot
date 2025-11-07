@@ -33,7 +33,15 @@ Edit `src/bot.ts` to modify the bot settings:
 ## Usage
 
 1. Start your Minecraft server
-2. Run the bot:
+2. Run the bot using one of these methods:
+
+### Option 1: Using the convenience script (recommended)
+```bash
+./run.sh
+```
+This script will automatically install dependencies if needed and start the bot.
+
+### Option 2: Manual execution
 ```bash
 node src/bot.ts
 ```
