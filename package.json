@@ -1,0 +1,17 @@
+{
+  "name": "ChasingBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "mineflayer": "^4.33.0",
+    "mineflayer-pathfinder": "^2.4.5"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  },
+  "private": true
+}
